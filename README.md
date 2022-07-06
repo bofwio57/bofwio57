@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=314E76&height=170&section=footer&text=Hello&fontSize=55&fontColor=E4DFC9&animation=fadeIn)
+<div align=center>
+
+## 🔨 s k i l l s
+<br>
+## ✏️ s t u d y 
+<br>
+## 📂  p r o j e c t
+<br>
+</div>
