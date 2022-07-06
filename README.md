@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **bofwio57/bofwio57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=314E76&height=170&section=footer&text=Hello&fontSize=55&fontColor=E4DFC9&animation=fadeIn)
-<div align=center>
 
+<div align=center>
 ## 🔨 s k i l l s
 <br>
 ## ✏️ s t u d y 
 <br>
-## 📂  p r o j e c t
+## 📂 p r o j e c t
 <br>
 </div>
