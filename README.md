@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=314E76&height=170&section=footer&text=Hello&fontSize=55&fontColor=E4DFC9&animation=fadeIn)
 
 <div align=center>
-## 🔨 s k i l l s
-<br>
-## ✏️ s t u d y 
-<br>
-## 📂 p r o j e c t
-<br>
+<h2>🔨 s k i l l s</h2>
+<h2>✏️ s t u d y </h2>
+<h2> 📂 p r o j e c t</h2>
 </div>
